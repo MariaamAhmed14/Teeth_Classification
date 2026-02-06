@@ -1,0 +1,10 @@
+
+*.keras
+*.h5
+
+
+Teeth_Dataset/
+
+
+*.pyc
+__pycache__/
